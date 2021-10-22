@@ -1,7 +1,7 @@
 title: 'Lulusan Tkj'
 email: lulusantkj2020@gmail.com
 timezone: UTC
-baseurl: 'https://lulusantkj.github.io'
+baseurl: '/'
 permalink: '/:title/'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'

@@ -1,0 +1,56 @@
+title: 'Lulusan Tkj'
+email: lulusantkj2020@gmail.com
+timezone: UTC
+baseurl: '/lulusantkj'
+permalink: '/:title/'
+logo: 'assets/images/logo.png'
+favicon: 'assets/images/favicon.ico'
+author: Sal
+paginate: 30
+disqus: 'demowebsite'
+locale: id
+lang: id
+feed_items: 10
+feed_update_period: daily
+feed_update_frequency: 1
+markdown: kramdown
+kramdown:
+  syntax_highlighter_opts:
+    disable: true
+sass:
+  sass_dir: _sass
+  style: :compressed
+ganalytics: UA-xxxxxxxxxx
+
+# Authors
+authors:
+  Khai:
+    name: Khai
+    display_name: Khai
+    avatar: 'assets/images/khai-uta-icon-web.jpg'
+    email: wowthemesnet@gmail.com
+    web: https://khaiuta.my.id
+    twitter: https://twitter.com/ThuanOgeb
+    description: 'orang yang ingin jadi presiden'
+  khai:
+    name: khai
+    display_name: khai
+    avatar: 'assets/images/khai-uta-icon-web.jpg'
+    email: aata014@gmail.com
+    web: https://khaiuta.blogspot.com
+    twitter: https://twitter.com/
+    description: 'Pegen jadi presiden'
+
+# Social
+social:
+  instagram: https://www.instagram.com/dotcomp.studio
+  facebook: https://www.facebook.com/dotcomp.studio
+  twitter: https://twitter.com/
+
+# Plugins
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-archives

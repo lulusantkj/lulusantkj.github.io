@@ -10,7 +10,7 @@ topmenu:
     url: 'contact/'
 
   - title: Follow Site
-    url: https://bootstrapstarter.com/template-affiliates-bootstrap-jekyll/
+    url: #
     class: 'ml-2 btn btn-dark text-white px-3'
     external: true
 
@@ -25,6 +25,6 @@ footermenu:
   - title: Contact
     url: 'contact/'
 
-  - title: Download
-    url: https://bootstrapstarter.com/template-affiliates-bootstrap-jekyll/
+  - title: DC Studio
+    url: #
     external: true

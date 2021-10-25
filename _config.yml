@@ -1,7 +1,7 @@
-title: 'Lulusan Tkj'
-email: lulusantkj2020@gmail.com
+title: 'Khai Uta'
+email: contact.khaiuta@gmail.com
 timezone: UTC
-baseurl: '/'
+baseurl: '/anjay'
 permalink: '/:title/'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
@@ -43,9 +43,9 @@ authors:
 
 # Social
 social:
-  instagram: https://www.instagram.com/dotcomp.studio
-  facebook: https://www.facebook.com/dotcomp.studio
-  twitter: https://twitter.com/
+  instagram: https://www.instagram.com/Khai_Uta
+  facebook: https://www.facebook.com/Khai_Uta
+  twitter: https://twitter.com/ThuanOGeb
 
 # Plugins
 plugins:
